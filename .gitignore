@@ -1,0 +1,10 @@
+*
+
+!src/
+!src/**
+
+!*.md
+!.gitignore
+!*.txt
+
+!*.py

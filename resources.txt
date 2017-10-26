@@ -1,0 +1,4 @@
+https://create.withcode.uk/python/A3
+https://www.tutorialspoint.com/python/python_basic_syntax.htm
+https://sourceforge.net/p/raspberry-gpio-python/wiki/BasicUsage/
+http://www.rpiblog.com/2012/09/using-gpio-of-raspberry-pi-to-blink-led.html

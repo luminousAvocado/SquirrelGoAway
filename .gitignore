@@ -1,13 +1,7 @@
 *
 
-!src/
-!PygameGUI.py
-
 !*.md
 !.gitignore
 
 !*.docx
-
-!img/
-!img/**
 
